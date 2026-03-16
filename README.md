@@ -25,6 +25,7 @@ Quando o usuário clicar em "Cadastrar":
         Abrir nova aba com link do WhatsApp após 1 segundo
 
 FIM
+
 2. README (exemplo para o projeto)
 Cadastro Clinic
 
